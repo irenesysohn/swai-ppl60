@@ -1,5 +1,5 @@
 // 접속자 수를 저장할 변수
-let visitorCount = 0;
+let visitorCount = 59;
 
 // DOM 요소 가져오기
 const visitorCountElement = document.getElementById('visitorCount');
